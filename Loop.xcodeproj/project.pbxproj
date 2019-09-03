@@ -3293,6 +3293,7 @@
 					CFLocalizedString,
 					LocalizedString,
 				);
+				LOOP_MARKETING_VERSION = "1.10.0-dev-beeps";
 				MAIN_APP_BUNDLE_IDENTIFIER = "$(inherited).Loop";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -3359,6 +3360,7 @@
 					CFLocalizedString,
 					LocalizedString,
 				);
+				LOOP_MARKETING_VERSION = "1.10.0-dev-beeps";
 				MAIN_APP_BUNDLE_IDENTIFIER = "$(inherited).Loop";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
